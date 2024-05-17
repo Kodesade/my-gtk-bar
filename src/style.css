@@ -1,0 +1,47 @@
+.bgred{
+        background-color: red;
+}
+
+.bgblue{
+        background-color: blue;
+}
+
+.bggreen{
+        background-color: green;
+}
+
+.bgtransparent{
+        background-color: transparent;
+}
+
+.appbtn{
+        background: transparent;
+        border-radius: 50%;
+}
+
+.appbtn:active, 
+.appbtn:selected,
+.appbtn:focus,
+.appbtn:checked,
+.appbtn:backdrop,
+.appbtn:hover
+{
+        color: transparent;
+}
+
+.appbtn:hover{
+        background-color: rgba(53,57,75,0.4);
+}
+
+.appicon{
+}
+
+.scrollbar.trough{
+        background: red;
+}
+
+.scrollbar .hovering{
+        background: transparent;
+        color: transparent;
+        border: 0px transparent solid;
+}
